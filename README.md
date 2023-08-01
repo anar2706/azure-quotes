@@ -13,7 +13,7 @@ A brief description of what this project does and who it's for:
 
 To run this project, you will need use following enviroenment Variables
 
-`code` = `752lrKau7Z5rqD4uXxNRH7L8xSnkbxD95QEQMjRzY1BOAzFuQjfksuw==`
+`functions host key` = `752lrKau7Z5rqD4uXxNRH7L8xSnkbxD95QEQMjRzY1BOAzFuQjfksuw==`
 
 
 Project URL - https://quotesassignment.azurewebsites.net/api
