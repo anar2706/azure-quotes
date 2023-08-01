@@ -13,7 +13,7 @@ A brief description of what this project does and who it's for:
 
 [Random](https://quotesassignment.azurewebsites.net/api/quotes/random?code=752lrKau7Z5rqD4uXxNRH7L8xSnkbxD95QEQMjRzY1BOAzFuQjfksuw==) - https://quotesassignment.azurewebsites.net/api/quotes/random?code=752lrKau7Z5rqD4uXxNRH7L8xSnkbxD95QEQMjRzY1BOAzFuQjfksuw==
 
-[Author](https://quotesassignment.azurewebsites.net/api/quotes/author?code=752lrKau7Z5rqD4uXxNRH7L8xSnkbxD95QEQMjRzY1BOAzFuQjfksuw==) - https://quotesassignment.azurewebsites.net/api/quotes/authors?code=752lrKau7Z5rqD4uXxNRH7L8xSnkbxD95QEQMjRzY1BOAzFuQjfksuw==
+[Author](https://quotesassignment.azurewebsites.net/api/quotes/author?code=752lrKau7Z5rqD4uXxNRH7L8xSnkbxD95QEQMjRzY1BOAzFuQjfksuw==) - https://quotesassignment.azurewebsites.net/api/quotes/author?code=752lrKau7Z5rqD4uXxNRH7L8xSnkbxD95QEQMjRzY1BOAzFuQjfksuw==
 
 ## Environment Variables
 
