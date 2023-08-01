@@ -33,4 +33,4 @@ In given repostitory for getting data from API have some problems:
     3) Because of these problems I had to write inefficent coding in python fetching all the authors from api filtering it and for these names getting quotes
 
 
-Please take into consideration when evaluation code base.
+Please take into consideration when evaluating code base.
